@@ -1,9 +1,9 @@
-import Appnav from "../Components/Appnav";
+import AppNav from "../Components/AppNav";
 
 const Layout = () => {
   return (
     <div>
-      <Appnav />
+      <AppNav />
     </div>
   );
 };
