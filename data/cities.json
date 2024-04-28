@@ -1,75 +1,39 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "id": "ba41",
+      "cityName": "Tillotama",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2024-04-27T17:30:01.834Z",
+      "notes": "nice place to live in",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "2ae9",
-      "cityName": "Ricla",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-04-27T16:26:15.367Z",
-      "notes": "",
-      "position": {
-        "lat": "41.5579215778042",
-        "lng": "-1.4282226562500002"
+        "lat": "27.619056485441057",
+        "lng": "83.43841552734376"
       }
     },
     {
-      "id": "bbef",
-      "cityName": "Watonga",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2024-04-27T16:33:06.537Z",
-      "notes": "he",
+      "id": "8f47",
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-28T15:46:44.210Z",
+      "notes": "capital of india\n",
       "position": {
-        "lat": "36.03133177633189",
-        "lng": "-98.43750000000001"
+        "lat": "28.62310355452992",
+        "lng": "77.24487304687501"
       }
     },
     {
-      "id": "92c7",
+      "id": "562b",
       "cityName": "Kathmandu",
       "country": "Nepal",
       "emoji": "🇳🇵",
-      "date": "2024-04-27T16:51:40.966Z",
-      "notes": "full of tamples\n",
+      "date": "2024-04-28T15:59:33.325Z",
+      "notes": "Full of tamples",
       "position": {
-        "lat": "27.702983735525862",
-        "lng": "85.29785156250001"
+        "lat": "27.741884632507087",
+        "lng": "85.38574218750001"
       }
     }
   ]

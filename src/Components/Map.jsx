@@ -16,7 +16,7 @@ import { useUrlPosition } from "../Hooks/useUrlPosition";
 
 const Map = () => {
   const { cities } = useCities();
-  const [mapPosition, setMapPosition] = useState([40, 0]);
+  const [mapPosition, setMapPosition] = useState([25, 85]);
   const {
     isLoading: isLoadingPosition,
     position: geolocationPosition,
